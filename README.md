@@ -13,7 +13,7 @@ antylopa - strength equal 4, it moves exactly two squares randomly
 BOSS - your main opponent, strength equal 99  
 trawa - strength equal 0  
 mlecz - strength equal 0  
-guarana - strength equal 0, it adds three point of strength  
+guarana - strength equal 0, it adds three points of strength  
 barszcz sosnowskiego - strength equal 10, it destroys all animals nearby except for cyber owca  
 The goal of this game is to beat boss. At the beginning you have strength equal 0, but you have ability to capture strength of yours opponents. There is a need to frame a plan in
 order to win this game. You can also use special skill which is szybkosc antylopy. Due to this you will be able to move two squares for 5 rounds. Good luck!
