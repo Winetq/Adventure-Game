@@ -1,5 +1,5 @@
 # Adventure-Game
-This is an adventure game in which there are twelve characters. Two kinds of chcaracters(animals and plants) can be distinguished. Each of them behaves differently. Dimensions of
+This is an adventure game in which there are twelve characters. Two kinds of chcaracters (animals and plants) can be distinguished. Each of them behaves differently. Dimensions of
 board is 20x20. Below all forms and their behaviour are presented:  
 1)animals:  
 TY - gamer (you can move using keyboards)  
